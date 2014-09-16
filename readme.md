@@ -2,7 +2,19 @@
 ###version 1.0.0
 ###author: Yixin Xia
 
-The library contains the following files
+####This library does the following
+
+* Define a list of images
+* Assign each images to any number of columns
+* Assign each images to any number of columns for mobile version
+* Define various animation and other properties on each column and image
+* Apply populateShowcase(config) method to your div object
+* Watch all the images in columns jump up!
+
+####Example
+http://yixinxia.com/jumpSlides/example.html
+
+####The library contains the following files
 
 * jumpSlides.js - main library JS file
 * jumpSlides.min.js - minimized main library JS file
