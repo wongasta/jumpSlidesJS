@@ -1,0 +1,36 @@
+{
+    "name": "jumpSlides",
+    "version": "1.0.0",
+    "authors": [
+        "Yixin Xia <yixin_xia@volusion.com>"
+    ],
+    "description": "Define list of images and the content will populate and pop out",
+    "main": "jumpSlides.js",
+    "keywords": [
+        "slideshow",
+        "pop",
+        "gallery",
+        "portfolio"
+    ],
+    "license": "MIT",
+    "homepage": "http://www.yixinxia.com",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest",
+        "jquery-ui": "latest",
+        "jquery-waypoints": "latest",
+        "bootstrap": "latest"
+    },
+    "install" : {
+        "path"  : {
+            "js": "_js/",
+            "css": "_css/"
+        }
+    }
+}

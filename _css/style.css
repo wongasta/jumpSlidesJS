@@ -1,0 +1,12 @@
+h1,h2,h3{
+    text-align: center;
+}
+
+.doc h1, .doc h2, .doc h3{
+    text-align: left;
+}
+
+.doc{
+    margin: 20px 0;
+    padding: 15px;
+}
